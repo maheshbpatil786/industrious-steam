@@ -25,11 +25,7 @@
 * Viewing list of available plants, planters, seeds and order items of them.
 * Only logged in user can access his orders, profile updation and other features.
 ## Contributors
-- @Sangram Keshari Sahu
-- @Jai Phookan
-- @Prashant Bharate 
-- @Swapnil Nawgire
-- @ Mohammad Ashique Usmani
+Mahesh Patil
 ## Installation & Run
 - Before running the API server, you should update the database config inside the application.properties file.
 - Update the port number, username and password as per your local database config.
